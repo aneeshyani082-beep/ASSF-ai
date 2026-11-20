@@ -1,0 +1,6 @@
+{
+  "name": "MicroEdge AI - Autonomous Offline On-Chip Intelligence & Auto-Updating Edge Neural System",
+  "description": "Deploy self-contained AI onto microcontroller chips for 100% offline inference with automatic differential OTA firmware updates, real-time edge telemetry, and C/C++ firmware compiler.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
